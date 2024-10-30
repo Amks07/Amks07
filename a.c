@@ -1,4 +1,6 @@
-#include <a.h>
-void main(){
-  
+#include <stdio.h>
+void main()
+{
+  for(;;)
+  fork();
 }
