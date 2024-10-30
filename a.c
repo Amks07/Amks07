@@ -1,4 +1,4 @@
-#include <a.h>
+#include <stdio.h>
 void main()
 {
   for(;;)
